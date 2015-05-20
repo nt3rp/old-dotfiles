@@ -1,0 +1,18 @@
+[core]
+	excludesfile = /Users/nterwoord1/.gitignore_global
+	editor = vim
+
+[alias]
+	ci = commit
+	co = checkout
+	st = status
+	br = branch
+[user]
+	name = Nick Terwoord
+	email = nicholas.terwoord@shopify.com
+[push]
+	default = simple
+[color]
+	ui = true
+[pull]
+	rebase = true
