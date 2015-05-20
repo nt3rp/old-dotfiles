@@ -1,7 +1,6 @@
 [core]
-	excludesfile = /Users/nterwoord1/.gitignore_global
+	excludesfile = ~/.gitignore_global
 	editor = vim
-
 [alias]
 	ci = commit
 	co = checkout
