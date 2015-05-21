@@ -10,7 +10,7 @@
 	name = Nick Terwoord
 	email = nicholas.terwoord@shopify.com
 [push]
-	default = simple
+	default = current
 [color]
 	ui = true
 [pull]

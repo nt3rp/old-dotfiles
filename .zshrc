@@ -58,6 +58,10 @@ eval "$(rbenv init -)"
 
 export VAGRANT_CWD=~/Documents/Code/vagrant
 
+# Python 2: Virtualenvs
+export WORKON_HOME=$HOME/.virtualenvs
+source /usr/local/bin/virtualenvwrapper.sh
+
 source $ZSH/oh-my-zsh.sh
 
 # You may need to manually set your language environment
